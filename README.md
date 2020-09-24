@@ -9,6 +9,8 @@ React hook to immediately place the browser's focus to your chosen element on de
 ## Usage
 
 ```typescript
+import useSetFocus from 'use-set-focus';
+
 const [inputRef, setInputFocus] = useSetFocus<HTMLInputElement>();
 
 const focusOnInputNow = () => {
