@@ -1,6 +1,6 @@
 {
   "name": "use-set-focus",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React hook to immediately place the browser's focus to your chosen element on demand.",
   "main": "dist/index.js",
   "source": "src/index.ts",
